@@ -38,6 +38,7 @@ $ subjs -h
 
 ```
 $ GO111MODULE=on go get -u -v github.com/lc/subjs@latest
+$ go install -v github.com/lc/subjs@latest
 ```
 
 ### From Binary
